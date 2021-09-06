@@ -10,10 +10,10 @@ This repository contains the dataset and code for our ACII 2021 paper:
 ## Task Description
 The goal of this research is to develop models that can recognize whether a post on social media is likely to inspire someone who reads that post.
 
-##Data
+## Data
 The submission ids of the inspiring and non-inspiring posts we collect for our paper: [`data_all_post_ids.csv`](data_all_post_ids.csv)
 
-##Data Crawler
+## Data Crawler
 The code for crawling Reddit: [`collect_reddit_data.ipynb`](collect_reddit_data.ipynb)
 
 ## Annotation Details
