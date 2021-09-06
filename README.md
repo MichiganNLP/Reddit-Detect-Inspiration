@@ -31,7 +31,7 @@ As control, we also collect random posts:
 * (1) posts with no comment that contains the substrings ``inspir`` or ``uplift`` (Reddit \& Facebook)
 * (2) posts from random subreddits that do not contain the substrings ``inspir`` or ``uplift`` (Reddit)
 
-####The resulting posts are annotated by crowd-sourced workers  to determine: 
+#### The resulting posts are annotated by crowd-sourced workers  to determine: 
 * (1) whether the post is inspiring or not; 
 * (2) if the post is inspiring, what influence it has on the reader; 
 * (3) what emotions it evokes; 
