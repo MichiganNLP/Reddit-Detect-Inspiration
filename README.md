@@ -5,9 +5,10 @@ Oana Ignat, Y-Lan Boureau, Jane Yu, Alon Halevy
 
 This repository contains the dataset and code for our ACII 2021 paper:
 
-[Detecting Inspiring Content on Social Media](TODO) (the PDF will be posted soon)
+[Detecting Inspiring Content on Social Media](https://arxiv.org/pdf/2109.02734.pdf) 
 
 ## Task Description
+![Example instance](images/ACII2021.jpg)
 The goal of this research is to develop models that can recognize whether a post on social media is likely to inspire someone who reads that post.
 
 ## Data
