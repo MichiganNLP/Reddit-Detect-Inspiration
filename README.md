@@ -38,3 +38,16 @@ As control, we also collect random posts:
 * (3) what emotions it evokes; 
 * (4) the annotator's confidence in the answer.
 
+## Citation information
+If you use this dataset or any ideas based on the associated research article, please cite the following:
+
+```bibtex
+@misc{ignat2021detecting,
+    title={Detecting Inspiring Content on Social Media},
+    author={Oana Ignat and Y-Lan Boureau and Jane A. Yu and Alon Halevy},
+    year={2021},
+    eprint={2109.02734},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
