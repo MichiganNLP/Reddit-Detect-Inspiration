@@ -14,7 +14,25 @@ The goal of this research is to develop models that can recognize whether a post
 ## Data
 * The submission/post ids of the inspiring and non-inspiring posts we collect for our paper: [`data_all_post_ids.csv`](data_all_post_ids.csv)
 
-* The AMT annotations for emotions and reasons for the inspiring posts, from all 3 workers per post: [`annotations_inspir_data`](annotations_inspir_data.json)
+* The AMT annotations for emotions and reasons for the inspiring posts, from all 3 annotators per post: [`annotations_inspir_data`](annotations_inspir_data.json)
+```json
+ "18ypya": {
+    "reasons": {
+      "feel good": 1,
+      "influence": 1,
+      "none": 1
+    },
+    "emotions": {
+      "curiosity": 2,
+      "gratitude": 1,
+      "optimism": 1,
+      "other: goals": 1
+    },
+...
+```
+* Each post is annotated by 3 annotators: we collect each of the annotated emotions/ reasons selected by the annotators and by 
+how many annotators was selected. The annotators also have the option of adding other emotions/ reasons: they appear in our data
+starting with "other: ".
 
 * We cannot share the text posts, only the post ids, because of privacy concerns. 
 However, you can *download all the post information* from the post ids using a reddit crawler (pushift or praw). We show below an example using pushift.
