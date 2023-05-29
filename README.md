@@ -5,7 +5,7 @@ Oana Ignat, Y-Lan Boureau, Jane Yu, Alon Halevy
 
 This repository contains the dataset and code for our paper, published at the [International Conference on Affective Computing and Intelligent Interaction (ACII) 2021](https://www.acii-conf.net/2021/):
 
-[Detecting Inspiring Content on Social Media](https://www.computer.org/csdl/proceedings-article/acii/2021/09597431/1yylfqgb0Xe) 
+[Detecting Inspiring Content on Social Media](https://www.computer.org/csdl/proceedings-article/acii/2021/09597431/1yylfqgb0Xe) and free version on [Arxiv](https://arxiv.org/abs/2109.02734).
 
 ## Task Description
 The goal of this research is to automatically recognize whether a post on social media is likely to inspire 
