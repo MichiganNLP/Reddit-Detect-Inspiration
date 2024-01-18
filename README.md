@@ -16,6 +16,7 @@ motivates them to act, both or no effect*, and what **emotions** they produce fo
 ![Example instance](images/ACII2021.jpg)
 
 ## Data
+* The inspirational posts: [`data_inspir.csv`](data_inspir.csv)
 * The submission/post ids of the inspiring and non-inspiring posts we collect for our paper: [`data_all_post_ids.csv`](data_all_post_ids.csv)
 
 * The AMT annotations for emotions and reasons for the inspiring posts, from all 3 annotators per post: [`annotations_inspir_data`](annotations_inspir_data.json)
